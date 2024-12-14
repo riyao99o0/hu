@@ -4,7 +4,7 @@
 		"ebook_pdf_url": "https://github.com/riyao99o0/hu/raw/main/6.pdf",
 		"ebook_description": "<p>Android Developer Fundamentals is a training course created by the Google Developer Training team. You learn basic Android programming concepts and build a variety of apps, starting with Hello World and working your way up to apps that use content providers and loaders.</p><p>Android Developer Fundamentals prepares you to take the exam for the Associate Android Developer Certification.</p><p>This course is intended to be taught in a classroom, but all the materials are online, so if you like to learn by yourself, go ahead!</p>",
 		"allow_save_book_in_storage": "true",
-		"swipe_horizontal_reading_book": "true",
+		"swipe_horizontal_reading_book": "false",
 		"show_scroll_handle_reading_book": "true",
 		"custom_table_of_contents": "true"
 	},
