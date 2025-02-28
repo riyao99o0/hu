@@ -1,25 +1,28 @@
 {
   "categories": [
     {
-      "id": "1",
-      "title": "Fiction",
-      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+      "id": "science",
+      "title": "Science",
+      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+      "ebooks": [
+        {
+          "id": "physics101",
+          "title": "Physics Fundamentals",
+          "description": "A comprehensive guide to physics.",
+          "pdf_url": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
+          "pdf_password": "secret123",
+          "index_menu": [
+             { "title": "Chapter 1", "page": 1 },
+             { "title": "Chapter 2", "page": 15 }
+          ]
+        }
+      ]
     },
     {
-      "id": "2",
-      "title": "Non-Fiction",
-      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
-    }
-  ],
-  "books": [
-    {
-      "id": "book1",
-      "title": "Sample Book",
-      "categoryId": "1",
+      "id": "literature",
+      "title": "Literature",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-      "description": "This is a sample ebook description.",
-      "pdfUrl": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-      "pdfPassword": "secret"  // Optional
+      "ebooks": [ /* … */ ]
     }
   ]
 }
