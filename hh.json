@@ -11,7 +11,7 @@
            "description": "A thrilling mystery novel.",
 		   "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
            "pdfUrl": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-           "pdfPassword": "pass123",
+           "pdfPassword": "",
            "tableOfContents": [
               { "title": "Chapter 1", "page": 1 },
               { "title": "Chapter 2", "page": 12 }
