@@ -24,14 +24,14 @@
         },
         "image": {
           "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
         }
       },
       "pdfPassword": "",
       "toc": [
         { "chapter": "Chapter 1: Start", "page": 1 },
         { "chapter": "Chapter 2: Journey", "page": 3 },
-        { "chapter": "Chapter 3: Climax", "page": 5 }
+        { "chapter": "Chapter 3: Climax", "page": 6 }
       ]
     },
     {
@@ -58,4 +58,3 @@
     }
   ]
 }
-
