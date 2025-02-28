@@ -1,24 +1,61 @@
 {
   "categories": [
     {
-      "id": "cat1",
+      "id": "fiction",
       "title": "Fiction",
-      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-      "books": [
-         {
-           "id": "book1",
-           "title": "Mystery Novel",
-           "description": "A thrilling mystery novel.",
-		   "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-           "pdfUrl": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-           "pdfPassword": "",
-           "tableOfContents": [
-              { "title": "Chapter 1", "page": 1 },
-              { "title": "Chapter 2", "page": 12 }
-           ]
-         }
+      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+    },
+    {
+      "id": "nonfiction",
+      "title": "Non-Fiction",
+      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+    }
+  ],
+  "books": [
+    {
+      "id": "book1",
+      "title": "The Great Adventure",
+      "category": "fiction",
+      "description": "An exciting journey filled with unexpected twists.",
+      "download": {
+        "pdf": {
+          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
+          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+        },
+        "image": {
+          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "secondary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+        }
+      },
+      "pdfPassword": "",
+      "toc": [
+        { "chapter": "Chapter 1: Start", "page": 1 },
+        { "chapter": "Chapter 2: Journey", "page": 3 },
+        { "chapter": "Chapter 3: Climax", "page": 5 }
+      ]
+    },
+    {
+      "id": "book2",
+      "title": "Science Facts",
+      "category": "nonfiction",
+      "description": "Explore fascinating scientific discoveries.",
+      "download": {
+        "pdf": {
+          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
+          "secondary": "https://backup.yourserver.com/books/science.pdf"
+        },
+        "image": {
+          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "secondary": "https://backup.yourserver.com/images/books/science.jpg"
+        }
+      },
+      "pdfPassword": "pa123",
+      "toc": [
+        { "chapter": "Introduction", "page": 1 },
+        { "chapter": "Chapter 1: Discovery", "page": 5 },
+        { "chapter": "Chapter 2: Innovation", "page": 15 }
       ]
     }
-    // … other categories
   ]
 }
+
