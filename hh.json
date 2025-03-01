@@ -29,9 +29,11 @@
       },
       "pdfPassword": "",
       "toc": [
-        { "chapter": "Chapter 1: Start", "page": 1 },
-        { "chapter": "Chapter 2: Journey", "page": 3 },
-        { "chapter": "Chapter 3: Climax", "page": 6 }
+        { "chapter": "Chapter 1: Start1", "page": 1 },
+        { "chapter": "Chapter 2: Journey2", "page": 2 },
+         { "chapter": "Chapter 3: Start3", "page": 3 },
+        { "chapter": "Chapter 4: Journey4", "page": 4 },
+        { "chapter": "Chapter 5: Climax5", "page": 5 }
       ]
     },
     {
