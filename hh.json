@@ -27,6 +27,7 @@
           "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
         }
       },
+      “passwordProtected”: “false”,
       "pdfPassword": "",
       "toc": [
         { "chapter": "Chapter 1: Start1", "page": 1 },
@@ -51,6 +52,7 @@
           "secondary": "https://backup.yourserver.com/images/books/science.jpg"
         }
       },
+      “passwordProtected”: “true”,
       "pdfPassword": "pa123",
       "toc": [
         { "chapter": "Introduction", "page": 1 },
