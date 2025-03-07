@@ -15,7 +15,7 @@
     {
       "id": "book1",
       "title": "The Great Adventure",
-      "category": "Fiction",
+      "category": "fiction",
       "description": "An exciting journey filled with unexpected twists.",
       "download": {
         "pdf": {
@@ -62,9 +62,9 @@
     },
         {
       "id": "book3",
-      "title": "Science Facts",
+      "title": "Science Fact1s",
       "category": "nonfiction",
-      "description": "Explore fascinating scientific discoveries.",
+      "description": "Explore fascinating scientific discoveries1.",
       "download": {
         "pdf": {
           "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
