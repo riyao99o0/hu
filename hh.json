@@ -30,7 +30,7 @@
       “passwordProtected”: “false”,
       "pdfPassword": "",
       "toc": [
-        { "chapter": "Chapter 1: Start1", "page": 1 },
+        { "chapter": "Chapter 1: newStart1", "page": 1 },
         { "chapter": "Chapter 2: Journey2", "page": 2 },
          { "chapter": "Chapter 3: Start3", "page": 3 },
         { "chapter": "Chapter 4: sstff", "page": 4 },
