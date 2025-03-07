@@ -15,7 +15,7 @@
     {
       "id": "book1",
       "title": "The Great Adventure",
-      "category": "fiction",
+      "category": "Fiction",
       "description": "An exciting journey filled with unexpected twists.",
       "download": {
         "pdf": {
