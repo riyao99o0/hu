@@ -30,7 +30,7 @@
       “passwordProtected”: “false”,
       "pdfPassword": "",
       "toc": [
-        { "chapter": "Chapter 1: oldoneStart1", "page": 1 },
+        { "chapter": "Chapter 1: newtestStart1", "page": 1 },
         { "chapter": "Chapter 2: Journey2", "page": 2 },
          { "chapter": "Chapter 3: Start3", "page": 3 },
         { "chapter": "Chapter 4: sstff", "page": 4 },
@@ -40,29 +40,6 @@
     {
       "id": "book2",
       "title": "Science Facts",
-      "category": "nonfiction",
-      "description": "Explore fascinating scientific discoveries.",
-      "download": {
-        "pdf": {
-          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-          "secondary": "https://backup.yourserver.com/books/science.pdf"
-        },
-        "image": {
-          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://backup.yourserver.com/images/books/science.jpg"
-        }
-      },
-      “passwordProtected”: “true”,
-      "pdfPassword": "pa123",
-      "toc": [
-        { "chapter": "Introduction", "page": 1 },
-        { "chapter": "Chapter 1: Discovery", "page": 5 },
-        { "chapter": "Chapter 2: Innovation", "page": 15 }
-      ]
-    },
-     {
-      "id": "book3",
-      "title": "Sciencfff",
       "category": "nonfiction",
       "description": "Explore fascinating scientific discoveries.",
       "download": {
