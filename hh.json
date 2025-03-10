@@ -19,7 +19,7 @@
       ]
     },
      {
-      "id": "my try",
+      "id": "mytry",
       "title": "Non-Fiction try",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
   
@@ -98,7 +98,7 @@
      {
       "id": "book4",
       "title": "The Great Adventure",
-      "category": "my try",
+      "category": "mytry",
       "description": "An exciting journey filled with unexpected twists.",
       "download": {
         "pdf": {
