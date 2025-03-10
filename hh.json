@@ -5,16 +5,8 @@
       "title": "Fiction",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        {
-          "id": "adventure",
-          "title": "Adventure",
-          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
-        },
-        {
-          "id": "romance",
-          "title": "Romance",
-          "image": "https://example.com/romance.jpg"
-        }
+        { "id": "mystery", "title": "Mystery", "image": "https://example.com/mystery.jpg" },
+        { "id": "fantasy", "title": "Fantasy", "image": "https://example.com/fantasy.jpg" }
       ]
     },
     {
@@ -22,16 +14,8 @@
       "title": "Non-Fiction",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        {
-          "id": "science",
-          "title": "Science",
-          "image": "https://example.com/science.jpg"
-        },
-        {
-          "id": "history",
-          "title": "History",
-          "image": "https://example.com/history.jpg"
-        }
+        { "id": "history", "title": "History", "image": "https://example.com/history.jpg" },
+        { "id": "science", "title": "Science", "image": "https://example.com/science.jpg" }
       ]
     }
   ],
@@ -40,7 +24,7 @@
       "id": "book1",
       "title": "The Great Adventure",
       "category": "fiction",
-      "subCategory": "adventure",
+      "subCategory": "mystery",
       "description": "An exciting journey filled with unexpected twists.",
       "download": {
         "pdf": {
@@ -52,62 +36,11 @@
           "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
         }
       },
-      "passwordProtected": "false",
+      "passwordProtected": false,
       "pdfPassword": "",
       "toc": [
-        { "chapter": "first one: finalupdate", "page": 1 },
-        { "chapter": "Chapter 2: Journey2", "page": 2 },
-        { "chapter": "Chapter 3: Start3", "page": 3 },
-        { "chapter": "Chapter 4: sstff", "page": 4 },
-        { "chapter": "Chapter 5: Climax5", "page": 5 }
-      ]
-    },
-    {
-      "id": "book2",
-      "title": "Science Facts",
-      "category": "nonfiction",
-      "subCategory": "science",
-      "description": "Explore fascinating scientific discoveries.",
-      "download": {
-        "pdf": {
-          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-          "secondary": "https://backup.yourserver.com/books/science.pdf"
-        },
-        "image": {
-          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://backup.yourserver.com/images/books/science.jpg"
-        }
-      },
-      "passwordProtected": "true",
-      "pdfPassword": "pa123",
-      "toc": [
-        { "chapter": "Introduction", "page": 1 },
-        { "chapter": "Chapter 1: Discovery", "page": 5 },
-        { "chapter": "Chapter 2: Innovation", "page": 15 }
-      ]
-    },
-    {
-      "id": "book3",
-      "title": "Science",
-      "category": "nonfiction",
-      "subCategory": "science",
-      "description": "Explore fascinating scientific discoveries.",
-      "download": {
-        "pdf": {
-          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-          "secondary": "https://backup.yourserver.com/books/science.pdf"
-        },
-        "image": {
-          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://backup.yourserver.com/images/books/science.jpg"
-        }
-      },
-      "passwordProtected": "true",
-      "pdfPassword": "pa123",
-      "toc": [
-        { "chapter": "Introduction", "page": 1 },
-        { "chapter": "Chapter 1: Discovery", "page": 5 },
-        { "chapter": "Chapter 2: Innovation", "page": 15 }
+        { "chapter": "Chapter 1: The Beginning", "page": 1 },
+        { "chapter": "Chapter 2: The Journey", "page": 2 }
       ]
     }
   ]
