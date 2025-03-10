@@ -5,8 +5,8 @@
       "title": "Fiction",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        { "id": "mystery", "title": "Mystery", "image": "https://example.com/mystery.jpg" },
-        { "id": "fantasy", "title": "Fantasy", "image": "https://example.com/fantasy.jpg" }
+        { "id": "mystery", "title": "Mystery", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
+        { "id": "fantasy", "title": "Fantasy", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
       ]
     },
     {
@@ -14,7 +14,7 @@
       "title": "Non-Fiction",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        { "id": "history", "title": "History", "image": "https://example.com/history.jpg" },
+        { "id": "history", "title": "History", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
         { "id": "science", "title": "Science", "image": "https://example.com/science.jpg" }
       ]
     },
@@ -28,14 +28,14 @@
   "books": [
     {
       "id": "book1",
-      "title": "The Great Adventure",
+      "title": "The Great Adventure s1",
       "category": "fiction",
       "subCategory": "mystery",
       "description": "An exciting journey filled with unexpected twists.",
       "download": {
         "pdf": {
           "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+          "secondary": ""
         },
         "image": {
           "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
@@ -51,13 +51,13 @@
     },
         {
       "id": "book2",
-      "title": "The Great Adventure",
+      "title": "The Great Adventure s2",
       "category": "fiction",
       "subCategory": "mystery",
       "description": "An exciting journey filled with unexpected twists.",
       "download": {
         "pdf": {
-          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
+          "primary": "",
           "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
         },
         "image": {
