@@ -70,7 +70,7 @@
       "id": "book3",
       "title": "The Great Adventure",
       "category": "fiction",
-      "subCategory": "Fantasy",
+      "subCategory": "fantasy",
       "description": "An exciting journey filled with unexpected twists.",
       "download": {
         "pdf": {
