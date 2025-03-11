@@ -5,7 +5,7 @@
       "title": "Fiction",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        { "id": "mystery", "title": "Mystery test", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
+        { "id": "mystery", "title": "Offline test", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
         { "id": "fantasy", "title": "Fantasy", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
       ]
     },
@@ -102,6 +102,28 @@
      {
       "id": "book4",
       "title": "The Great Adventure",
+      "category": "mytry",
+      "description": "An exciting journey filled with unexpected twists.",
+      "download": {
+        "pdf": {
+          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
+          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+        },
+        "image": {
+          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [
+        { "chapter": "Chapter 1: The Beginning", "page": 1 },
+        { "chapter": "Chapter 2: The Journey", "page": 2 }
+      ]
+    },
+      {
+      "id": "book5",
+      "title": "The Great update",
       "category": "mytry",
       "description": "An exciting journey filled with unexpected twists.",
       "download": {
