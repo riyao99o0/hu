@@ -28,7 +28,7 @@
   "books": [
     {
       "id": "book1",
-      "title": "The Great Adventure s1",
+      "title": "new sub catogery book",
       "category": "fiction",
       "subCategory": "mystery",
       "description": "An exciting journey filled with unexpected twists.",
