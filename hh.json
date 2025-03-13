@@ -5,7 +5,7 @@
       "title": "Fiction",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        { "id": "mystery", "title": "Sub Catogery", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
+        { "id": "mystery", "title": "new fragment", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
         { "id": "fantasy", "title": "Fantasy", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
       ]
     },
@@ -28,7 +28,7 @@
   "books": [
     {
       "id": "book1",
-      "title": "new sub catogery book",
+      "title": "new fragment test book",
       "category": "fiction",
       "subCategory": "mystery",
       "description": "An exciting journey filled with unexpected twists.",
