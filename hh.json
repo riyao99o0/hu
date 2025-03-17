@@ -5,8 +5,49 @@
       "title": "Fiction",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        { "id": "mystery", "title": "new fragment", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
-        { "id": "fantasy", "title": "Fantasy", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
+        {
+          "id": "mystery",
+          "title": "Mystery",
+          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "subCategories": [
+            {
+              "id": "mystery_sub1",
+              "title": "Mystery Sub Category 1",
+              "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+            }
+          ]
+        },
+        {
+          "id": "fantasy",
+          "title": "Fantasy",
+          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "subCategories": [
+            {
+              "id": "fantasy_sub1",
+              "title": "Fantasy Sub Category 1",
+              "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+              "subCategories": [
+                {
+                  "id": "fantasy_sub1_sub1",
+                  "title": "Fantasy Sub Category 1.1",
+                  "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+                  "subCategories": [
+                    {
+                      "id": "fantasy_sub1_sub1_sub1",
+                      "title": "Fantasy Sub Category 1.1.1",
+                      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+                    },
+                    {
+                      "id": "fantasy_sub1_sub1_sub2",
+                      "title": "Fantasy Sub Category 1.1.2",
+                      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -14,21 +55,36 @@
       "title": "Non-Fiction",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        { "id": "history", "title": "History", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
-        { "id": "science", "title": "Science", "image": "https://example.com/science.jpg" }
+        {
+          "id": "history",
+          "title": "History",
+          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "subCategories": []
+        },
+        {
+          "id": "science",
+          "title": "Science",
+          "image": "https://example.com/science.jpg",
+          "subCategories": [
+            {
+              "id": "science_sub1",
+              "title": "Science Sub Category 1",
+              "image": "https://example.com/science.jpg"
+            }
+          ]
+        }
       ]
     },
-     {
+    {
       "id": "mytry",
       "title": "Non-Fiction try",
       "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
-  
     }
   ],
   "books": [
     {
       "id": "book1",
-      "title": "new fragment test book",
+      "title": "New Fragment Test Book",
       "category": "fiction",
       "subCategory": "mystery",
       "description": "An exciting journey filled with unexpected twists.",
@@ -44,16 +100,17 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
+      "tocEnabled": true,
       "toc": [
         { "chapter": "Chapter 1: The Beginning", "page": 1 },
-         { "chapter": "Chapter 1: The Beginning2", "page": 2 },
-         { "chapter": "Chapter 1: The Beginning3", "page": 3 },
-         { "chapter": "Chapter 1: The Beginning4", "page": 4 },
-         { "chapter": "Chapter 1: The Beginning5", "page": 5 },
+        { "chapter": "Chapter 1: The Beginning2", "page": 2 },
+        { "chapter": "Chapter 1: The Beginning3", "page": 3 },
+        { "chapter": "Chapter 1: The Beginning4", "page": 4 },
+        { "chapter": "Chapter 1: The Beginning5", "page": 5 },
         { "chapter": "Chapter 2: The Journey6", "page": 6 }
       ]
     },
-        {
+    {
       "id": "book2",
       "title": "The Great Adventure s2",
       "category": "fiction",
@@ -71,12 +128,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
+      "tocEnabled": false,
       "toc": [
         { "chapter": "Chapter 1: The Beginning", "page": 1 },
         { "chapter": "Chapter 2: The Journey", "page": 2 }
       ]
     },
-      {
+    {
       "id": "book3",
       "title": "The Great Adventure",
       "category": "fiction",
@@ -94,12 +152,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
+      "tocEnabled": true,
       "toc": [
         { "chapter": "Chapter 1: The Beginning", "page": 1 },
         { "chapter": "Chapter 2: The Journey", "page": 2 }
       ]
     },
-     {
+    {
       "id": "book4",
       "title": "The Great Adventure",
       "category": "mytry",
@@ -116,12 +175,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
+      "tocEnabled": true,
       "toc": [
         { "chapter": "Chapter 1: The Beginning", "page": 1 },
         { "chapter": "Chapter 2: The Journey", "page": 2 }
       ]
     },
-      {
+    {
       "id": "book5",
       "title": "The Great update",
       "category": "mytry",
@@ -138,11 +198,11 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
+      "tocEnabled": false,
       "toc": [
         { "chapter": "Chapter 1: The Beginning", "page": 1 },
         { "chapter": "Chapter 2: The Journey", "page": 2 }
       ]
     }
-    
   ]
 }
