@@ -9,23 +9,16 @@
           "id": "mystery",
           "title": "Mystery",
           "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "subCategory1": [
+          "subCategories": [
             {
-              "id": "detective",
-              "title": "Detective",
-              "image": "https://example.com/detective.jpg",
-              "subCategory2": [
+              "id": "crime",
+              "title": "Crime",
+              "image": "https://example.com/crime.jpg",
+              "subCategories": [
                 {
-                  "id": "classic",
-                  "title": "Classic Mystery",
-                  "image": "https://example.com/classic.jpg",
-                  "subCategory3": [
-                    {
-                      "id": "old",
-                      "title": "Old Detective",
-                      "image": "https://example.com/old.jpg"
-                    }
-                  ]
+                  "id": "detective",
+                  "title": "Detective",
+                  "image": "https://example.com/detective.jpg"
                 }
               ]
             }
@@ -34,8 +27,7 @@
         {
           "id": "fantasy",
           "title": "Fantasy",
-          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "subCategory1": []
+          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
         }
       ]
     },
@@ -47,7 +39,7 @@
         {
           "id": "history",
           "title": "History",
-          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
+          "image": "https://example.com/history.jpg"
         },
         {
           "id": "science",
@@ -69,6 +61,7 @@
       "category": "fiction",
       "subCategory": "mystery",
       "description": "An exciting journey filled with unexpected twists.",
+      "tocEnabled": true,
       "download": {
         "pdf": {
           "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
@@ -84,8 +77,7 @@
       "toc": [
         { "chapter": "Chapter 1: The Beginning", "page": 1 },
         { "chapter": "Chapter 2: The Journey", "page": 2 }
-      ],
-      "showToc": true
+      ]
     },
     {
       "id": "book2",
@@ -93,6 +85,7 @@
       "category": "fiction",
       "subCategory": "mystery",
       "description": "An exciting journey filled with unexpected twists.",
+      "tocEnabled": false,
       "download": {
         "pdf": {
           "primary": "",
@@ -105,11 +98,77 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book3",
+      "title": "The Great Adventure",
+      "category": "fiction",
+      "subCategory": "fantasy",
+      "description": "An exciting journey filled with unexpected twists.",
+      "tocEnabled": true,
+      "download": {
+        "pdf": {
+          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
+          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+        },
+        "image": {
+          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
       "toc": [
         { "chapter": "Chapter 1: The Beginning", "page": 1 },
         { "chapter": "Chapter 2: The Journey", "page": 2 }
-      ],
-      "showToc": false
+      ]
+    },
+    {
+      "id": "book4",
+      "title": "The Great Adventure",
+      "category": "mytry",
+      "description": "An exciting journey filled with unexpected twists.",
+      "tocEnabled": true,
+      "download": {
+        "pdf": {
+          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
+          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+        },
+        "image": {
+          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [
+        { "chapter": "Chapter 1: The Beginning", "page": 1 },
+        { "chapter": "Chapter 2: The Journey", "page": 2 }
+      ]
+    },
+    {
+      "id": "book5",
+      "title": "The Great Update",
+      "category": "mytry",
+      "description": "An exciting journey filled with unexpected twists.",
+      "tocEnabled": false,
+      "download": {
+        "pdf": {
+          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
+          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+        },
+        "image": {
+          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [
+        { "chapter": "Chapter 1: The Beginning", "page": 1 },
+        { "chapter": "Chapter 2: The Journey", "page": 2 }
+      ]
     }
   ]
 }
