@@ -59,7 +59,7 @@
       "id": "book1",
       "title": "New Fragment Test Book",
       "category": "fiction",
-      "subCategory": "mystery",
+      "subCategory": "detective",
       "description": "An exciting journey filled with unexpected twists.",
       "tocEnabled": true,
       "download": {
@@ -83,7 +83,7 @@
       "id": "book2",
       "title": "The Great Adventure S2",
       "category": "fiction",
-      "subCategory": "mystery",
+      "subCategory": "detective",
       "description": "An exciting journey filled with unexpected twists.",
       "tocEnabled": false,
       "download": {
