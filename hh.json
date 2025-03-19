@@ -1,67 +1,39 @@
 {
   "categories": [
     {
-      "id": "fiction",
-      "title": "Fiction",
-      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+      "id": "fiction", "title": "Fiction222", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        {
-          "id": "mystery",
-          "title": "Mystery",
-          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+        { "id": "mystery", "title": "Mystery111", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
           "subCategories": [
-            {
-              "id": "crime",
-              "title": "Crime",
-              "image": "https://example.com/crime.jpg",
+            { "id": "crime", "title": "Crime333", "image": "https://example.com/crime.jpg",
               "subCategories": [
-                {
-                  "id": "detective",
-                  "title": "Detective",
-                  "image": "https://example.com/detective.jpg"
-                }
+                { "id": "detective", "title": "Detective444", "image": "https://example.com/detective.jpg",
+                "subCategories": [
+                { "id": "upsc", "title": "UPSC", "image": "https://example.com/detective.jpg" }
+              ]
+            }
               ]
             }
           ]
         },
-        {
-          "id": "fantasy",
-          "title": "Fantasy",
-          "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
-        }
+        { "id": "fantasy", "title": "Fantasy", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
       ]
     },
+
     {
-      "id": "nonfiction",
-      "title": "Non-Fiction",
-      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+      "id": "nonfiction", "title": "Non-Fiction", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        {
-          "id": "history",
-          "title": "History",
-          "image": "https://example.com/history.jpg"
-        },
-        {
-          "id": "science",
-          "title": "Science",
-          "image": "https://example.com/science.jpg"
-        }
+        { "id": "history", "title": "History", "image": "https://example.com/history.jpg" },
+        { "id": "science", "title": "Science", "image": "https://example.com/science.jpg" }
       ]
     },
-    {
-      "id": "mytry",
-      "title": "Non-Fiction try",
-      "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg"
-    }
+
+    { "id": "mytry", "title": "Non-Fiction try", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
   ],
   "books": [
     {
-      "id": "book1",
-      "title": "New Fragment Test Book",
-      "category": "fiction",
-      "subCategory": "detective",
+      "id": "book1", "title": "New Fragment Test Book", "category": "fiction", "subCategory": "upsc",
       "description": "An exciting journey filled with unexpected twists.",
-      "tocEnabled": true,
       "download": {
         "pdf": {
           "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
@@ -79,6 +51,7 @@
         { "chapter": "Chapter 2: The Journey", "page": 2 }
       ]
     },
+
     {
       "id": "book2",
       "title": "The Great Adventure S2",
