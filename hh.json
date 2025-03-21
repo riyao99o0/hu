@@ -1,26 +1,164 @@
 {
   "categories": [
     {
-      "id": "fiction", "title": "Fiction222", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+      "id": "upsc", "title": "UPSC", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
-        { "id": "mystery", "title": "Mystery111", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+        { "id": "civil_services", "title": "Civil Services", "image": "",
+        "subCategories": [
+          { "id": "civil_services_p", "title": "Preliminary", "image": "",
           "subCategories": [
-            { "id": "crime", "title": "Crime333", "image": "https://example.com/crime.jpg",
-              "subCategories": [
-                { "id": "detective", "title": "Detective444", "image": "https://example.com/detective.jpg",
-                "subCategories": [
-                { "id": "upsc", "title": "UPSC", "image": "https://example.com/detective.jpg" }
-              ]
-            }
-              ]
-            }
+            { "id": "", "title": "", "image": "" }
           ]
         },
-        { "id": "fantasy", "title": "Fantasy", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
+          { "id": "civil_services_m", "title": "Main", "image": "",
+          "subCategories": [
+            { "id": "civil_services_m1", "title": "Essay", "image": "" },
+            { "id": "civil_services_m2", "title": "General Studies", "image": "" },
+            { "id": "civil_services_m3", "title": "Optional Subjects", "image": "",
+            "subCategories": [
+              { "id": "civil_services_m3_optional_1", "title": "Agriculture", "image": "" },
+              { "id": "civil_services_m3_optional_2", "title": "Animal Husb. and Vet. Science", "image": "" },
+              { "id": "civil_services_m3_optional_3", "title": "Anthropology", "image": "" },
+              { "id": "civil_services_m3_optional_4", "title": "Botany", "image": "" },
+              { "id": "civil_services_m3_optional_5", "title": "Chemistry", "image": "" },
+              { "id": "civil_services_m3_optional_6", "title": "Civil Engineering", "image": "" },
+              { "id": "civil_services_m3_optional_7", "title": "Commerce and Accountancy", "image": "" },
+              { "id": "civil_services_m3_optional_8", "title": "Economics", "image": "" },
+              { "id": "civil_services_m3_optional_9", "title": "Electrical Engineering", "image": "" },
+              { "id": "civil_services_m3_optional_10", "title": "Geography", "image": "" },
+              { "id": "civil_services_m3_optional_11", "title": "Geology", "image": "" },
+              { "id": "civil_services_m3_optional_12", "title": "History", "image": "" },
+              { "id": "civil_services_m3_optional_13", "title": "Law", "image": "" },
+              { "id": "civil_services_m3_optional_14", "title": "Management", "image": "" },
+              { "id": "civil_services_m3_optional_15", "title": "Mathematics", "image": "" },
+              { "id": "civil_services_m3_optional_16", "title": "Mechanical Engineering", "image": "" },
+              { "id": "civil_services_m3_optional_17", "title": "Medical Science", "image": "" },
+              { "id": "civil_services_m3_optional_18", "title": "Philosophy", "image": "" },
+              { "id": "civil_services_m3_optional_19", "title": "Physics", "image": "" },
+              { "id": "civil_services_m3_optional_20", "title": "Political Science and International Relations", "image": "" },
+              { "id": "civil_services_m3_optional_21", "title": "Psychology", "image": "" },
+              { "id": "civil_services_m3_optional_22", "title": "Public Administration", "image": "" },
+              { "id": "civil_services_m3_optional_23", "title": "Sociology", "image": "" },
+              { "id": "civil_services_m3_optional_24", "title": "Statistics", "image": "" },
+              { "id": "civil_services_m3_optional_25", "title": "Zoology", "image": "" }
+            ] 
+          },
+            { "id": "civil_services_m4", "title": "Compulsory Subjects", "image": "",
+            "subCategories": [
+              { "id": "civil_services_m4_compulsory_1", "title": "Assamese", "image": "" },
+              { "id": "civil_services_m4_compulsory_2", "title": "Bengali", "image": "" },
+              { "id": "civil_services_m4_compulsory_3", "title": "Bodo", "image": "" },
+              { "id": "civil_services_m4_compulsory_4", "title": "English", "image": "" },
+              { "id": "civil_services_m4_compulsory_5", "title": "Gujarati", "image": "" },
+              { "id": "civil_services_m4_compulsory_6", "title": "Hindi", "image": "" },
+              { "id": "civil_services_m4_compulsory_7", "title": "Kannada", "image": "" },
+              { "id": "civil_services_m4_compulsory_8", "title": "Maithili", "image": "" },
+              { "id": "civil_services_m4_compulsory_9", "title": "Malayalam", "image": "" },
+              { "id": "civil_services_m4_compulsory_10", "title": "Marathi", "image": "" },
+              { "id": "civil_services_m4_compulsory_11", "title": "Nepali", "image": "" },
+              { "id": "civil_services_m4_compulsory_12", "title": "Odia", "image": "" },
+              { "id": "civil_services_m4_compulsory_13", "title": "Punjabi", "image": "" },
+              { "id": "civil_services_m4_compulsory_14", "title": "Sanskrit", "image": "" },
+              { "id": "civil_services_m4_compulsory_15", "title": "Sindhi", "image": "" },
+              { "id": "civil_services_m4_compulsory_16", "title": "Tamil", "image": "" },
+              { "id": "civil_services_m4_compulsory_17", "title": "Telugu", "image": "" },
+              { "id": "civil_services_m4_compulsory_18", "title": "Urdu", "image": "" }
+            ]
+           },
+            { "id": "civil_services_m5", "title": "Literature Subjects", "image": "",
+            "subCategories": [
+              { "id": "civil_services_m5_literature_1", "title": "Assamese", "image": "" },
+              { "id": "civil_services_m5_literature_2", "title": "Bengali", "image": "" },
+              { "id": "civil_services_m5_literature_3", "title": "English", "image": "" },
+              { "id": "civil_services_m5_literature_4", "title": "Gujarati", "image": "" },
+              { "id": "civil_services_m5_literature_5", "title": "Hindi", "image": "" },
+              { "id": "civil_services_m5_literature_6", "title": "Kannada", "image": "" },
+              { "id": "civil_services_m5_literature_7", "title": "Maithili", "image": "" },
+              { "id": "civil_services_m5_literature_8", "title": "Malayalam", "image": "" },
+              { "id": "civil_services_m5_literature_9", "title": "Manipuri", "image": "" },
+              { "id": "civil_services_m5_literature_10", "title": "Marathi", "image": "" },
+              { "id": "civil_services_m5_literature_11", "title": "Odia", "image": "" },
+              { "id": "civil_services_m5_literature_12", "title": "Punjabi", "image": "" },
+              { "id": "civil_services_m5_literature_13", "title": "Sindhi", "image": "" },
+              { "id": "civil_services_m5_literature_14", "title": "Sanskrit", "image": "" },
+              { "id": "civil_services_m5_literature_15", "title": "Tamil", "image": "" },
+              { "id": "civil_services_m5_literature_16", "title": "Telugu", "image": "" },
+              { "id": "civil_services_m5_literature_17", "title": "Urdu", "image": "" }
+            ] 
+          }
+          ] 
+        }
+        ]
+      },
+
+      
+      { "id": "indian_forest_service", "title": "Indian Forest Service", "image": "",
+      "subCategories": [
+        { "id": "indian_forest_service_p", "title": "Preliminary", "image": "",
+        "subCategories": [
+          { "id": "", "title": "", "image": "" }
+        ]
+      },
+        { "id": "indian_forest_service_m", "title": "Main", "image": "",
+        "subCategories": [
+          { "id": "indian_forest_service_m1", "title": "Agricultural Engineering", "image": "" },
+          { "id": "indian_forest_service_m2", "title": "Agriculture", "image": "" },
+          { "id": "indian_forest_service_m3", "title": "Animal Husbandry and Veterinary Science", "image": "" },
+          { "id": "indian_forest_service_m4", "title": "Botany", "image": "" },
+          { "id": "indian_forest_service_m5", "title": "Chemical Engineering", "image": "" },
+          { "id": "indian_forest_service_m6", "title": "Chemistry", "image": "" },
+          { "id": "indian_forest_service_m7", "title": "Civil Engineering", "image": "" },
+          { "id": "indian_forest_service_m8", "title": "Forestry", "image": "" },
+          { "id": "indian_forest_service_m9", "title": "General English", "image": "" },
+          { "id": "indian_forest_service_m10", "title": "General Knowledge", "image": "" },
+          { "id": "indian_forest_service_m11", "title": "Geology", "image": "" },
+          { "id": "indian_forest_service_m12", "title": "Mathematics", "image": "" },
+          { "id": "indian_forest_service_m13", "title": "Mechanical Engineering", "image": "" },
+          { "id": "indian_forest_service_m14", "title": "Physics", "image": "" },
+          { "id": "indian_forest_service_m15", "title": "Statistics", "image": "" },
+          { "id": "indian_forest_service_m16", "title": "Zoology", "image": "" }
+        ] }
       ]
     },
 
-    {
+        { "id": "combined_geo_scientist", "title": "Combined Geo-Scientist", "image": "",
+          "subCategories": [
+            { "id": "combined_geo_scientist_p", "title": "Preliminary", "image": "",
+            "subCategories": [
+              { "id": "combined_geo_scientist_2025", "title": "2025", "image": "" }
+            ]
+          },
+            { "id": "main", "title": "main", "image": "" }
+          ]
+        },
+
+        { "id": "central_armed_police_forces", "title": "Central Armed Police Forces", "image": "" },
+
+
+        { "id": "National_defence_naval", "title": "National Defence and Naval Academy", "image": "",
+        "subCategories": [
+          { "id": "defence_naval_examination-1,", "title": "Examination I,", "image": "" },
+          { "id": "defence_naval_examination-2,", "title": "Examination II,", "image": "" }
+        ]
+       },
+
+       { "id": "combined_section_Officer", "title": "Combined Section Officer", "image": "",
+       "subCategories": [
+         { "id": "section_Officer_examination-1,", "title": "Examination I,", "image": "" },
+         { "id": "section_Officer_examination-2,", "title": "Examination II,", "image": "" }
+       ]
+      },
+
+       { "id": "combined_defence_services", "title": "Combined Defence Services", "image": "",
+       "subCategories": [
+         { "id": "ldce_2024", "title": "(Grade-B) LDCE, 2024", "image": "" }
+       ]
+      }
+
+      ]
+    },
+
+    { 
       "id": "nonfiction", "title": "Non-Fiction", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
         { "id": "history", "title": "History", "image": "https://example.com/history.jpg" },
@@ -30,118 +168,3116 @@
 
     { "id": "mytry", "title": "Non-Fiction try", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
   ],
+
+
+
+
+
+
+
   "books": [
     {
-      "id": "book1", "title": "New Fragment Test Book", "category": "fiction", "subCategory": "upsc",
-      "description": "An exciting journey filled with unexpected twists.",
+      "id": "b1",
+      "title": "Paper - I General Studies",
+      "category": "upsc",
+	  "subCategory": "combined_geo_scientist_2025",
+      "description": "",
       "download": {
         "pdf": {
-          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-          "secondary": ""
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GENERAL-STUDIES-PAPER-I-100225.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GENERAL-STUDIES-PAPER-I-100225.pdf"
         },
         "image": {
-          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+          "primary": "",
+          "secondary": ""
         }
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [
-        { "chapter": "Chapter 1: The Beginning", "page": 1 },
-        { "chapter": "Chapter 2: The Journey", "page": 2 }
-      ]
+      "toc": [ ]
+    },
+    {
+      "id": "b2",
+      "title": "Paper - II Chemistry",
+      "category": "upsc",
+	  "subCategory": "combined_geo_scientist_2025",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-CHEMISTRY-PAPER-II-100225.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-CHEMISTRY-PAPER-II-100225.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b3",
+      "title": "Paper - II Geology / Hydrogeology",
+      "category": "upsc",
+	  "subCategory": "combined_geo_scientist_2025",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GEOLOGY-HYDROGEOLOGY-PAPER-II-100225.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GEOLOGY-HYDROGEOLOGY-PAPER-II-100225.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+  {
+      "id": "b4",
+      "title": "Paper - II Geophysics",
+      "category": "upsc",
+	  "subCategory": "combined_geo_scientist_2025",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GEOPHYSICS-PAPER-II-100225.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CGeoScnstP-25-GEOPHYSICS-PAPER-II-100225.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+
+    {
+      "id": "b5",
+      "title": "Paper - I",
+      "category": "upsc",
+	  "subCategory": "ldce_2024",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-I-130125.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-I-130125.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b6",
+      "title": "Paper - II (Procedure and Practice, Categories I and VIII)",
+      "category": "upsc",
+	  "subCategory": "ldce_2024",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePractice-Categories-I-and-VIII-130125.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePractice-Categories-I-and-VIII-130125.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b7",
+      "title": "Paper - II (Procedure and Practice, Categories II)",
+      "category": "upsc",
+	  "subCategory": "ldce_2024",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePracticeCategory-II-130125.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePracticeCategory-II-130125.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b8",
+      "title": "Paper - II (Procedure and Practice, Categories III)",
+      "category": "upsc",
+	  "subCategory": "ldce_2024",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-Procedure-Practice-Category-III-130125.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-Procedure-Practice-Category-III-130125.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b9",
+      "title": "Paper - II (Procedure and Practice, Categories X)",
+      "category": "upsc",
+	  "subCategory": "ldce_2024",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePracticeCategory-X-130125.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-II-ProcedurePracticeCategory-X-130125.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b10",
+      "title": "Paper - III - Noting and Drafting, Precis Writing",
+      "category": "upsc",
+	  "subCategory": "ldce_2024",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "Paper - III - Noting and Drafting, Precis Writing",
+          "secondary": "Paper - III - Noting and Drafting, Precis Writing"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
     },
 
     {
-      "id": "book2",
-      "title": "The Great Adventure S2",
-      "category": "fiction",
-      "subCategory": "detective",
-      "description": "An exciting journey filled with unexpected twists.",
-      "tocEnabled": false,
+      "id": "b11",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m1",
+      "description": "",
       "download": {
         "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-I-021224.pdf"
+        },
+        "image": {
           "primary": "",
-          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
-        },
-        "image": {
-          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+          "secondary": ""
         }
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": []
+      "toc": [ ]
     },
     {
-      "id": "book3",
-      "title": "The Great Adventure",
-      "category": "fiction",
-      "subCategory": "fantasy",
-      "description": "An exciting journey filled with unexpected twists.",
-      "tocEnabled": true,
+      "id": "b12",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m1",
+      "description": "",
       "download": {
         "pdf": {
-          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURAL-ENGINEERING-PAPER-II-021224.pdf"
         },
         "image": {
-          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+          "primary": "",
+          "secondary": ""
         }
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [
-        { "chapter": "Chapter 1: The Beginning", "page": 1 },
-        { "chapter": "Chapter 2: The Journey", "page": 2 }
-      ]
+      "toc": [ ]
     },
     {
-      "id": "book4",
-      "title": "The Great Adventure",
-      "category": "mytry",
-      "description": "An exciting journey filled with unexpected twists.",
-      "tocEnabled": true,
+      "id": "b13",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m2",
+      "description": "",
       "download": {
         "pdf": {
-          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURE-PAPER-I-021224.pdf",
+          "secondary": ""
         },
         "image": {
-          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+          "primary": "",
+          "secondary": ""
         }
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [
-        { "chapter": "Chapter 1: The Beginning", "page": 1 },
-        { "chapter": "Chapter 2: The Journey", "page": 2 }
-      ]
+      "toc": [ ]
     },
     {
-      "id": "book5",
-      "title": "The Great Update",
-      "category": "mytry",
-      "description": "An exciting journey filled with unexpected twists.",
-      "tocEnabled": false,
+      "id": "b14",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m2",
+      "description": "",
       "download": {
         "pdf": {
-          "primary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf",
-          "secondary": "https://cdn.visionias.in/value_added_material/573c2-early-medieval-important-regional-dynasties.pdf"
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURE-PAPER-II-021224.pdf",
+          "secondary": ""
         },
         "image": {
-          "primary": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-          "secondary": "https://backup.yourserver.com/images/books/adventure.jpg"
+          "primary": "",
+          "secondary": ""
         }
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [
-        { "chapter": "Chapter 1: The Beginning", "page": 1 },
-        { "chapter": "Chapter 2: The Journey", "page": 2 }
-      ]
+      "toc": [ ]
+    },
+    {
+      "id": "b15",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m3",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ANIMAL-HUSBANDRY-VETERINARY-SCIENCE-PAPER-I-021224.pdf",
+          "secondary": ""
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b16",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m3",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ANIMAL-HUSBANDRY-VETERINARY-SCIENCE-PAPER-II-021224.pdf",
+          "secondary": ""
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b17",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m4",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-BOTANY-PAPER-I-021224.pdf",
+          "secondary": ""
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b18",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m4",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-BOTANY-PAPER-II-021224.pdf",
+          "secondary": ""
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b19",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m5",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMICAL-ENGINEERING-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMICAL-ENGINEERING-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b20",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m5",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMICAL-ENGINEERING-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMICAL-ENGINEERING-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b21",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m6",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMISTRY-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMISTRY-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b22",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m6",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMISTRY-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CHEMISTRY-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b23",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m7",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CIVIL-ENGINEERING-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CIVIL-ENGINEERING-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b24",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m7",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CIVIL-ENGINEERING-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-CIVIL-ENGINEERING-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b25",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m8",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-FORESTRY-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-FORESTRY-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b26",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m8",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-FORESTRY-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-FORESTRY-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b27",
+      "title": "General English 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m9",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GENERAL-ENGLISH-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GENERAL-ENGLISH-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b28",
+      "title": "General Knowledge 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m10",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GENERAL-KNOWLEDGE-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GENERAL-KNOWLEDGE-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b29",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m11",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GEOLOGY-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GEOLOGY-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b30",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m11",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GEOLOGY-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-GEOLOGY-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b31",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m12",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MATHEMATICS-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MATHEMATICS-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b32",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m12",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MATHEMATICS-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MATHEMATICS-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b33",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m13",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MECHANICAL-ENGINEERING-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MECHANICAL-ENGINEERING-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b34",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m13",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MECHANICAL-ENGINEERING-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-MECHANICAL-ENGINEERING-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b35",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m14",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-PHYSICS-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-PHYSICS-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b36",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m14",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-PHYSICS-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-PHYSICS-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b37",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m15",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-STATISTICS-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-STATISTICS-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b38",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m15",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-STATISTICS-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-STATISTICS-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b39",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m16",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ZOOLOGY-PAPER-I-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ZOOLOGY-PAPER-I-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b40",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "indian_forest_service_m16",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ZOOLOGY-PAPER-II-021224.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ZOOLOGY-PAPER-II-021224.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b41",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_1",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-AGRICULTURE-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-AGRICULTURE-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b42",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_1",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-AGRICULTURE-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-AGRICULTURE-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b43",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANIM-HUSB-VET-SCIENCE-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANIM-HUSB-VET-SCIENCE-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b44",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANIM-HUSB-VET-SCIENCE-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANIM-HUSB-VET-SCIENCE-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b45",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_3",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANTHROPOLOGY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANTHROPOLOGY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b46",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_3",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANTHROPOLOGY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ANTHROPOLOGY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b47",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_4",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-BOTANY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-BOTANY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b48",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_4",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-BOTANY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-BOTANY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b49",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_5",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-CHEMISTRY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-CHEMISTRY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b50",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_5",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-CHEMISTRY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-CHEMISTRY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b51",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_6",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-CIVIL-ENGINEERING-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-CIVIL-ENGINEERING-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b52",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_6",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-CIVIL-ENGINEERING-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-CIVIL-ENGINEERING-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b53",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_7",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-COMMERCE-AND-ACCOUNTANCY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-COMMERCE-AND-ACCOUNTANCY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b54",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_7",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-COMMERCE-AND-ACCOUNTANCY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-COMMERCE-AND-ACCOUNTANCY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b55",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_8",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ECONOMICS-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ECONOMICS-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b56",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_8",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ECONOMICS-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ECONOMICS-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b57",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_9",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ELECTRICAL-ENGINEERING-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ELECTRICAL-ENGINEERING-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b58",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_9",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ELECTRICAL-ENGINEERING-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ELECTRICAL-ENGINEERING-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b59",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_10",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOGRAPHY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOGRAPHY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b60",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_10",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOGRAPHY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOGRAPHY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b61",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_11",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOLOGY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOLOGY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b62",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_11",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOLOGY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-GEOLOGY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b63",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_12",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-HISTORY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-HISTORY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b64",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_12",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-HISTORY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-HISTORY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b65",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_13",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-LAW-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-LAW-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b66",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_13",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-LAW-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-LAW-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b67",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_14",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MANAGEMENT-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MANAGEMENT-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b68",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_14",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MANAGEMENT-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MANAGEMENT-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b69",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_15",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MATHEMATICS-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MATHEMATICS-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b70",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_15",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MATHEMATICS-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MATHEMATICS-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b71",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_16",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MECHANICAL-ENGINEERING-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MECHANICAL-ENGINEERING-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b72",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_16",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MECHANICAL-ENGINEERING-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MECHANICAL-ENGINEERING-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b73",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_17",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MEDICAL-SCIENCE-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MEDICAL-SCIENCE-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b74",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_17",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MEDICAL-SCIENCE-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-MEDICAL-SCIENCE-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b75",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_18",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHILOSOPHY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHILOSOPHY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b76",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_18",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHILOSOPHY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHILOSOPHY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b77",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_19",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHYSICS-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHYSICS-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b78",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_19",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHYSICS-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PHYSICS-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b79",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_20",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-POLITICAL-SCIENCE-INTERNL%20-REL-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-POLITICAL-SCIENCE-INTERNL%20-REL-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b80",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_20",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-POLITICAL-SCIENCE-INTERNL%20-REL-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-POLITICAL-SCIENCE-INTERNL%20-REL-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b81",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_21",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PSYCHOLOGY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PSYCHOLOGY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b82",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_21",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PSYCHOLOGY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PSYCHOLOGY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b83",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_22",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PUBLIC-ADMINISTRATION-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PUBLIC-ADMINISTRATION-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b84",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_22",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PUBLIC-ADMINISTRATION-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-PUBLIC-ADMINISTRATION-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b85",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_23",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-SOCIOLOGY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-SOCIOLOGY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b86",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_23",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-SOCIOLOGY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-SOCIOLOGY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b87",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_24",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-STATISTICS-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-STATISTICS-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b88",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_24",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-STATISTICS-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-STATISTICS-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b89",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_25",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ZOOLOGY-PAPER-I-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ZOOLOGY-PAPER-I-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b90",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m3_optional_25",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ZOOLOGY-PAPER-II-031024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CSM-24-ZOOLOGY-PAPER-II-031024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+
+    {
+      "id": "b91",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_1",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b92",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_1",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b93",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b94",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b95",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_3",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b96",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_3",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b97",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_4",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b98",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_4",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b99",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_5",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b100",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_5",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b101",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_6",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b102",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_6",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b103",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_7",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b104",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_7",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b105",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_8",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b106",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_8",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b107",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_9",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mani_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mani_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b108",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_9",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mani_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mani_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b109",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_10",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b110",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_10",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b111",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_11",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b112",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_11",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b113",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_12",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b114",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_12",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b115",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_13",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b116",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_13",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b117",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_14",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b118",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_14",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b119",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_15",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tam_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tam_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b120",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_15",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tam_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tam_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b121",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_16",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b122",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_16",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b123",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_17",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_P_I_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_P_I_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b124",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m5_literature_17",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_P_II_Lite_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_P_II_Lite_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+    {
+      "id": "b125",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_1",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Assa_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b126",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Beng_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+	
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b127",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_3",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Bodo_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Bodo_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b128",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_4",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Eng_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b129",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_5",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Guj_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b130",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_6",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Hn_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b131",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_7",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Kann_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b132",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_8",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mait_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b133",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_9",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mala_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b134",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_10",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Mara_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b135",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_11",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Nepa_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Nepa_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b136",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_12",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Odia_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b137",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_13",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Pun_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b138",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_14",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Snk_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b139",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_15",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Sind_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b140",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_16",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tamil_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Tamil_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b141",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_17",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Telu_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b142",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m4_compulsory_18",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_Comp_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_Urdu_Comp_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+
+
+    {
+      "id": "b143",
+      "title": "Paper - I 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b144",
+      "title": "Paper - II 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_II_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_II_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+	
+	  "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+	{
+      "id": "b145",
+      "title": "Paper - III 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_III_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_III_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+{
+      "id": "b146",
+      "title": "Paper - IV 2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_IV_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_IV_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+	  "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+    {
+      "id": "b147",
+      "title": "2024",
+      "category": "upsc",
+	  "subCategory": "civil_services_m1",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_ESSAY_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_ESSAY_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+    {
+      "id": "b148",
+      "title": "English 2024",
+      "category": "upsc",
+	  "subCategory": "section_Officer_examination-2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-ENGLISH-020924.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-ENGLISH-020924.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+  {
+      "id": "b149",
+      "title": "General Knowledge 2024",
+      "category": "upsc",
+	  "subCategory": "section_Officer_examination-2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-GENERAL-KNOWLEDGE-020924.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-GENERAL-KNOWLEDGE-020924.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+  {
+      "id": "b150",
+      "title": "Elementary Mathematics 2024",
+      "category": "upsc",
+	  "subCategory": "section_Officer_examination-2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-ELEMENTARY-MATHEMATICS-020924.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CDSE-II-24-ELEMENTARY-MATHEMATICS-020924.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+    {
+      "id": "b151",
+      "title": "General Ability Test 2024",
+      "category": "upsc",
+	  "subCategory": "defence_naval_examination-2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-GENERAL-ABILITY-TEST-020924.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-GENERAL-ABILITY-TEST-020924.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+  {
+      "id": "b152",
+      "title": "Mathematics 2024",
+      "category": "upsc",
+	  "subCategory": "defence_naval_examination-2",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-MATHEMATICS-020924.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-NDA-NA-II-24-MATHEMATICS-020924.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+
+
+    {
+      "id": "b160",
+      "title": "General Ability And Intelligence 2024",
+      "category": "upsc",
+	  "subCategory": "central_armed_police_forces",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CAPF_2024_GEN-ABILITY-AND-INTELLI_05082024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CAPF_2024_GEN-ABILITY-AND-INTELLI_05082024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
+    },
+    {
+      "id": "b160",
+      "title": "General Studies, Essay And Comprehension 2024",
+      "category": "upsc",
+	  "subCategory": "central_armed_police_forces",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CAPF_2024_GS-ESSAY-AND-COMP_05082024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CAPF_2024_GS-ESSAY-AND-COMP_05082024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": [ ]
     }
+
+
+
+
+
+
   ]
 }
