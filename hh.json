@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "id": "upsc", "title": "UPSC", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+      "id": "upsc", "title": "UPSC", "categoriestitle": "UPSC", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
         { "id": "civil_services", "title": "Civil Services", "image": "",
         "subCategories": [
@@ -12,7 +12,7 @@
         },
           { "id": "civil_services_m", "title": "Main", "image": "",
           "subCategories": [
-            { "id": "civil_services_m1", "title": "Essay", "image": "" },
+            { "id": "civil_services_m1", "title": "Essay", "subcategoriestitle": "Essay", "image": "" },
             { "id": "civil_services_m2", "title": "General Studies", "image": "" },
             { "id": "civil_services_m3", "title": "Optional Subjects", "image": "",
             "subCategories": [
