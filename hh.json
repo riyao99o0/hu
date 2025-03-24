@@ -1,7 +1,7 @@
 {
   "categories": [
     {
-      "id": "upsc", "title": "UPSC try", "categoriestitle": "UPSC", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+      "id": "upsc", "title": "UPSC", "categoriestitle": "UPSC", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
       "subCategories": [
         { "id": "civil_services", "title": "Civil Services", "image": "",
         "subCategories": [
@@ -159,12 +159,7 @@
     },
 
     { 
-      "id": "nonfiction", "title": "Non-Fiction", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
-      "subCategories": [
-        { "id": "history", "title": "History", "image": "https://example.com/history.jpg" },
-        { "id": "science", "title": "Science", "image": "https://example.com/science.jpg" }
-      ]
-    },
+      "id": "nonfiction", "title": "Non-Fiction", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
 
     { "id": "mytry", "title": "Non-Fiction try", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
   ],
@@ -179,8 +174,8 @@
     {
       "id": "b1",
       "title": "Paper - I General Studies",
-      "category": "upsc",
-	  "subCategory": "combined_geo_scientist_2025",
+      "category": "mytry",
+	
       "description": "",
       "download": {
         "pdf": {
@@ -3236,8 +3231,7 @@
     {
       "id": "b160",
       "title": "General Ability And Intelligence 2024",
-      "category": "upsc",
-	  "subCategory": "central_armed_police_forces",
+      "category": "mytry",
       "description": "",
       "download": {
         "pdf": {
