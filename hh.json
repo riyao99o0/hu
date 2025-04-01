@@ -1,181 +1,161 @@
 {
   "categories": [
     {
-      "id": "upsc", "title": "UPSC", "categoriestitle": "UPSC", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg",
+      "id": "cat_1743489671800_448",
+      "title": "UPSC",
+      "image": "",
       "subCategories": [
-        { "id": "civil_services", "title": "Civil Services", "image": "",
-        "subCategories": [
-          { "id": "civil_services_p", "title": "Preliminary", "image": "",
+        {
+          "id": "cat_1743489727031_294",
+          "title": "Combined Geo-Scientist",
+          "image": "",
           "subCategories": [
-            { "id": "", "title": "", "image": "" }
+            {
+              "id": "cat_1743489807311_455",
+              "title": "Combined Geo-Scientist (Preliminary 2025)",
+              "image": "",
+              "subCategories": []
+            }
           ]
         },
-          { "id": "civil_services_m", "title": "Main", "image": "",
+        {
+          "id": "cat_1743490043372_291",
+          "title": "Combined Section Officer",
+          "image": "",
           "subCategories": [
-            { "id": "civil_services_m1", "title": "Essay", "subcategoriestitle": "Essay", "image": "" },
-            { "id": "civil_services_m2", "title": "General Studies", "image": "" },
-            { "id": "civil_services_m3", "title": "Optional Subjects", "image": "",
-            "subCategories": [
-              { "id": "civil_services_m3_optional_1", "title": "Agriculture", "image": "" },
-              { "id": "civil_services_m3_optional_2", "title": "Animal Husb. and Vet. Science", "image": "" },
-              { "id": "civil_services_m3_optional_3", "title": "Anthropology", "image": "" },
-              { "id": "civil_services_m3_optional_4", "title": "Botany", "image": "" },
-              { "id": "civil_services_m3_optional_5", "title": "Chemistry", "image": "" },
-              { "id": "civil_services_m3_optional_6", "title": "Civil Engineering", "image": "" },
-              { "id": "civil_services_m3_optional_7", "title": "Commerce and Accountancy", "image": "" },
-              { "id": "civil_services_m3_optional_8", "title": "Economics", "image": "" },
-              { "id": "civil_services_m3_optional_9", "title": "Electrical Engineering", "image": "" },
-              { "id": "civil_services_m3_optional_10", "title": "Geography", "image": "" },
-              { "id": "civil_services_m3_optional_11", "title": "Geology", "image": "" },
-              { "id": "civil_services_m3_optional_12", "title": "History", "image": "" },
-              { "id": "civil_services_m3_optional_13", "title": "Law", "image": "" },
-              { "id": "civil_services_m3_optional_14", "title": "Management", "image": "" },
-              { "id": "civil_services_m3_optional_15", "title": "Mathematics", "image": "" },
-              { "id": "civil_services_m3_optional_16", "title": "Mechanical Engineering", "image": "" },
-              { "id": "civil_services_m3_optional_17", "title": "Medical Science", "image": "" },
-              { "id": "civil_services_m3_optional_18", "title": "Philosophy", "image": "" },
-              { "id": "civil_services_m3_optional_19", "title": "Physics", "image": "" },
-              { "id": "civil_services_m3_optional_20", "title": "Political Science and International Relations", "image": "" },
-              { "id": "civil_services_m3_optional_21", "title": "Psychology", "image": "" },
-              { "id": "civil_services_m3_optional_22", "title": "Public Administration", "image": "" },
-              { "id": "civil_services_m3_optional_23", "title": "Sociology", "image": "" },
-              { "id": "civil_services_m3_optional_24", "title": "Statistics", "image": "" },
-              { "id": "civil_services_m3_optional_25", "title": "Zoology", "image": "" }
-            ] 
-          },
-            { "id": "civil_services_m4", "title": "Compulsory Subjects", "image": "",
-            "subCategories": [
-              { "id": "civil_services_m4_compulsory_1", "title": "Assamese", "image": "" },
-              { "id": "civil_services_m4_compulsory_2", "title": "Bengali", "image": "" },
-              { "id": "civil_services_m4_compulsory_3", "title": "Bodo", "image": "" },
-              { "id": "civil_services_m4_compulsory_4", "title": "English", "image": "" },
-              { "id": "civil_services_m4_compulsory_5", "title": "Gujarati", "image": "" },
-              { "id": "civil_services_m4_compulsory_6", "title": "Hindi", "image": "" },
-              { "id": "civil_services_m4_compulsory_7", "title": "Kannada", "image": "" },
-              { "id": "civil_services_m4_compulsory_8", "title": "Maithili", "image": "" },
-              { "id": "civil_services_m4_compulsory_9", "title": "Malayalam", "image": "" },
-              { "id": "civil_services_m4_compulsory_10", "title": "Marathi", "image": "" },
-              { "id": "civil_services_m4_compulsory_11", "title": "Nepali", "image": "" },
-              { "id": "civil_services_m4_compulsory_12", "title": "Odia", "image": "" },
-              { "id": "civil_services_m4_compulsory_13", "title": "Punjabi", "image": "" },
-              { "id": "civil_services_m4_compulsory_14", "title": "Sanskrit", "image": "" },
-              { "id": "civil_services_m4_compulsory_15", "title": "Sindhi", "image": "" },
-              { "id": "civil_services_m4_compulsory_16", "title": "Tamil", "image": "" },
-              { "id": "civil_services_m4_compulsory_17", "title": "Telugu", "image": "" },
-              { "id": "civil_services_m4_compulsory_18", "title": "Urdu", "image": "" }
-            ]
-           },
-            { "id": "civil_services_m5", "title": "Literature Subjects", "image": "",
-            "subCategories": [
-              { "id": "civil_services_m5_literature_1", "title": "Assamese", "image": "" },
-              { "id": "civil_services_m5_literature_2", "title": "Bengali", "image": "" },
-              { "id": "civil_services_m5_literature_3", "title": "English", "image": "" },
-              { "id": "civil_services_m5_literature_4", "title": "Gujarati", "image": "" },
-              { "id": "civil_services_m5_literature_5", "title": "Hindi", "image": "" },
-              { "id": "civil_services_m5_literature_6", "title": "Kannada", "image": "" },
-              { "id": "civil_services_m5_literature_7", "title": "Maithili", "image": "" },
-              { "id": "civil_services_m5_literature_8", "title": "Malayalam", "image": "" },
-              { "id": "civil_services_m5_literature_9", "title": "Manipuri", "image": "" },
-              { "id": "civil_services_m5_literature_10", "title": "Marathi", "image": "" },
-              { "id": "civil_services_m5_literature_11", "title": "Odia", "image": "" },
-              { "id": "civil_services_m5_literature_12", "title": "Punjabi", "image": "" },
-              { "id": "civil_services_m5_literature_13", "title": "Sindhi", "image": "" },
-              { "id": "civil_services_m5_literature_14", "title": "Sanskrit", "image": "" },
-              { "id": "civil_services_m5_literature_15", "title": "Tamil", "image": "" },
-              { "id": "civil_services_m5_literature_16", "title": "Telugu", "image": "" },
-              { "id": "civil_services_m5_literature_17", "title": "Urdu", "image": "" }
-            ] 
-          }
-          ] 
+            {
+              "id": "cat_1743490064417_47",
+              "title": "Combined Section Officer (Grade-B) LDCE, 2024",
+              "image": "",
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "id": "cat_1743490271118_887",
+          "title": "Indian Forest Service",
+          "image": "",
+          "subCategories": [
+            {
+              "id": "cat_1743490298606_681",
+              "title": "Indian Forest Service (Main 2024)",
+              "image": "",
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "id": "cat_1743491550884_212",
+          "title": "Civil Services",
+          "image": "",
+          "subCategories": [
+            {
+              "id": "cat_1743491619654_215",
+              "title": "Civil Services (Main 2024)",
+              "image": "",
+              "subCategories": [
+                {
+                  "id": "cat_1743491676650_277",
+                  "title": "Optional Subjects 2024",
+                  "image": "",
+                  "subCategories": []
+                },
+                {
+                  "id": "cat_1743498973162_221",
+                  "title": "Literature Subjects 2024",
+                  "image": "",
+                  "subCategories": []
+                },
+                {
+                  "id": "cat_1743499790598_203",
+                  "title": "Compulsory Subjects 2024",
+                  "image": "",
+                  "subCategories": []
+                },
+                {
+                  "id": "cat_1743500364249_752",
+                  "title": "General Studies 2024",
+                  "image": "",
+                  "subCategories": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cat_1743500614652_524",
+          "title": "Combined Defence Services",
+          "image": "",
+          "subCategories": [
+            {
+              "id": "cat_1743500650120_376",
+              "title": "Combined Defence Services Examination (II), 2024",
+              "image": "",
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "id": "cat_1743500784015_561",
+          "title": "National Defence & Naval Academy",
+          "image": "",
+          "subCategories": [
+            {
+              "id": "cat_1743500818105_442",
+              "title": "National Defence & Naval Academy Examination (II), 2024",
+              "image": "",
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "id": "cat_1743500988825_988",
+          "title": "Central Armed Police Forces",
+          "image": "",
+          "subCategories": [
+            {
+              "id": "cat_1743501014621_762",
+              "title": "Central Armed Police Forces Examination, 2024",
+              "image": "",
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "id": "cat_1743501146442_48",
+          "title": "Combined Medical Services",
+          "image": "",
+          "subCategories": [
+            {
+              "id": "cat_1743501161304_39",
+              "title": "Combined Medical Services Examination, 2024",
+              "image": "",
+              "subCategories": []
+            }
+          ]
+        },
+        {
+          "id": "cat_1743501269614_835",
+          "title": "Indian Economic & Statistical Service",
+          "image": "",
+          "subCategories": [
+            {
+              "id": "cat_1743501311328_306",
+              "title": "Indian Economic & Statistical Service Examination, 2024",
+              "image": "",
+              "subCategories": []
+            }
+          ]
         }
-        ]
-      },
-
-      
-      { "id": "indian_forest_service", "title": "Indian Forest Service", "image": "",
-      "subCategories": [
-        { "id": "indian_forest_service_p", "title": "Preliminary", "image": "",
-        "subCategories": [
-          { "id": "", "title": "", "image": "" }
-        ]
-      },
-        { "id": "indian_forest_service_m", "title": "Main", "image": "",
-        "subCategories": [
-          { "id": "indian_forest_service_m1", "title": "Agricultural Engineering", "image": "" },
-          { "id": "indian_forest_service_m2", "title": "Agriculture", "image": "" },
-          { "id": "indian_forest_service_m3", "title": "Animal Husbandry and Veterinary Science", "image": "" },
-          { "id": "indian_forest_service_m4", "title": "Botany", "image": "" },
-          { "id": "indian_forest_service_m5", "title": "Chemical Engineering", "image": "" },
-          { "id": "indian_forest_service_m6", "title": "Chemistry", "image": "" },
-          { "id": "indian_forest_service_m7", "title": "Civil Engineering", "image": "" },
-          { "id": "indian_forest_service_m8", "title": "Forestry", "image": "" },
-          { "id": "indian_forest_service_m9", "title": "General English", "image": "" },
-          { "id": "indian_forest_service_m10", "title": "General Knowledge", "image": "" },
-          { "id": "indian_forest_service_m11", "title": "Geology", "image": "" },
-          { "id": "indian_forest_service_m12", "title": "Mathematics", "image": "" },
-          { "id": "indian_forest_service_m13", "title": "Mechanical Engineering", "image": "" },
-          { "id": "indian_forest_service_m14", "title": "Physics", "image": "" },
-          { "id": "indian_forest_service_m15", "title": "Statistics", "image": "" },
-          { "id": "indian_forest_service_m16", "title": "Zoology", "image": "" }
-        ] }
       ]
-    },
-
-        { "id": "combined_geo_scientist", "title": "Combined Geo-Scientist", "image": "",
-          "subCategories": [
-            { "id": "combined_geo_scientist_p", "title": "Preliminary", "image": "",
-            "subCategories": [
-              { "id": "combined_geo_scientist_2025", "title": "2025", "image": "" }
-            ]
-          },
-            { "id": "main", "title": "main", "image": "" }
-          ]
-        },
-
-        { "id": "central_armed_police_forces", "title": "Central Armed Police Forces", "image": "" },
-
-
-        { "id": "National_defence_naval", "title": "National Defence and Naval Academy", "image": "",
-        "subCategories": [
-          { "id": "defence_naval_examination-1,", "title": "Examination I,", "image": "" },
-          { "id": "defence_naval_examination-2,", "title": "Examination II,", "image": "" }
-        ]
-       },
-
-       { "id": "combined_section_Officer", "title": "Combined Section Officer", "image": "",
-       "subCategories": [
-         { "id": "section_Officer_examination-1,", "title": "Examination I,", "image": "" },
-         { "id": "section_Officer_examination-2,", "title": "Examination II,", "image": "" }
-       ]
-      },
-
-       { "id": "combined_defence_services", "title": "Combined Defence Services", "image": "",
-       "subCategories": [
-         { "id": "ldce_2024", "title": "(Grade-B) LDCE, 2024", "image": "" }
-       ]
-      }
-
-      ]
-    },
-
-    { 
-      "id": "nonfiction", "title": "Non-Fiction", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" },
-
-    { "id": "mytry", "title": "Non-Fiction try", "image": "https://m.media-amazon.com/images/I/51HDOv2K3gL._SY445_SX342_.jpg" }
+    }
   ],
-
-
-
-
-
-
-
   "books": [
     {
-      "id": "b1",
-      "title": "Paper - I General Studies",
-      "category": "mytry",
-	
+      "id": "book_1743489865639_269",
+      "title": "Paper - I General Studies (12.68 MB)",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743489807311_455",
       "description": "",
       "download": {
         "pdf": {
@@ -189,13 +169,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b2",
+      "id": "book_1743489948785_209",
       "title": "Paper - II Chemistry",
-      "category": "upsc",
-	  "subCategory": "combined_geo_scientist_2025",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743489807311_455",
       "description": "",
       "download": {
         "pdf": {
@@ -209,13 +189,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b3",
+      "id": "book_1743489971640_258",
       "title": "Paper - II Geology / Hydrogeology",
-      "category": "upsc",
-	  "subCategory": "combined_geo_scientist_2025",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743489807311_455",
       "description": "",
       "download": {
         "pdf": {
@@ -229,13 +209,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-  {
-      "id": "b4",
+    {
+      "id": "book_1743490002426_894",
       "title": "Paper - II Geophysics",
-      "category": "upsc",
-	  "subCategory": "combined_geo_scientist_2025",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743489807311_455",
       "description": "",
       "download": {
         "pdf": {
@@ -249,15 +229,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-
-
     {
-      "id": "b5",
+      "id": "book_1743490095774_89",
       "title": "Paper - I",
-      "category": "upsc",
-	  "subCategory": "ldce_2024",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490064417_47",
       "description": "",
       "download": {
         "pdf": {
@@ -271,13 +249,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b6",
+      "id": "book_1743490124534_903",
       "title": "Paper - II (Procedure and Practice, Categories I and VIII)",
-      "category": "upsc",
-	  "subCategory": "ldce_2024",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490064417_47",
       "description": "",
       "download": {
         "pdf": {
@@ -291,13 +269,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b7",
+      "id": "book_1743490178504_405",
       "title": "Paper - II (Procedure and Practice, Categories II)",
-      "category": "upsc",
-	  "subCategory": "ldce_2024",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490064417_47",
       "description": "",
       "download": {
         "pdf": {
@@ -311,13 +289,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b8",
+      "id": "book_1743490200702_684",
       "title": "Paper - II (Procedure and Practice, Categories III)",
-      "category": "upsc",
-	  "subCategory": "ldce_2024",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490064417_47",
       "description": "",
       "download": {
         "pdf": {
@@ -331,13 +309,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b9",
+      "id": "book_1743490224690_444",
       "title": "Paper - II (Procedure and Practice, Categories X)",
-      "category": "upsc",
-	  "subCategory": "ldce_2024",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490064417_47",
       "description": "",
       "download": {
         "pdf": {
@@ -351,18 +329,18 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b10",
+      "id": "book_1743490247952_213",
       "title": "Paper - III - Noting and Drafting, Precis Writing",
-      "category": "upsc",
-	  "subCategory": "ldce_2024",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490064417_47",
       "description": "",
       "download": {
         "pdf": {
-          "primary": "Paper - III - Noting and Drafting, Precis Writing",
-          "secondary": "Paper - III - Noting and Drafting, Precis Writing"
+          "primary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-III-NOTING-DRAFTING-PRECIS-WRITING-130125.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-SO-LDCE-24-PAPER-III-NOTING-DRAFTING-PRECIS-WRITING-130125.pdf"
         },
         "image": {
           "primary": "",
@@ -371,14 +349,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-
     {
-      "id": "b11",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m1",
+      "id": "book_1743490380525_21",
+      "title": "Agricultural Engineering Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -392,13 +369,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b12",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m1",
+      "id": "book_1743490404125_455",
+      "title": "Agricultural Engineering Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -412,18 +389,18 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b13",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m2",
+      "id": "book_1743490426837_999",
+      "title": "Agriculture Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
           "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURE-PAPER-I-021224.pdf",
-          "secondary": ""
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURE-PAPER-I-021224.pdf"
         },
         "image": {
           "primary": "",
@@ -432,18 +409,18 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b14",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m2",
+      "id": "book_1743490454537_629",
+      "title": "Agriculture Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
           "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURE-PAPER-II-021224.pdf",
-          "secondary": ""
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-AGRICULTURE-PAPER-II-021224.pdf"
         },
         "image": {
           "primary": "",
@@ -452,18 +429,18 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b15",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m3",
+      "id": "book_1743490478653_163",
+      "title": "Animal Husbandry and Veterinary Science Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
           "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ANIMAL-HUSBANDRY-VETERINARY-SCIENCE-PAPER-I-021224.pdf",
-          "secondary": ""
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ANIMAL-HUSBANDRY-VETERINARY-SCIENCE-PAPER-I-021224.pdf"
         },
         "image": {
           "primary": "",
@@ -472,18 +449,18 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b16",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m3",
+      "id": "book_1743490520837_314",
+      "title": "Animal Husbandry and Veterinary Science Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
           "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ANIMAL-HUSBANDRY-VETERINARY-SCIENCE-PAPER-II-021224.pdf",
-          "secondary": ""
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-ANIMAL-HUSBANDRY-VETERINARY-SCIENCE-PAPER-II-021224.pdf"
         },
         "image": {
           "primary": "",
@@ -492,18 +469,18 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b17",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m4",
+      "id": "book_1743490546695_639",
+      "title": "Botany Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
           "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-BOTANY-PAPER-I-021224.pdf",
-          "secondary": ""
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-BOTANY-PAPER-I-021224.pdf"
         },
         "image": {
           "primary": "",
@@ -512,18 +489,18 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b18",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m4",
+      "id": "book_1743490573693_403",
+      "title": "Botany Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
           "primary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-BOTANY-PAPER-II-021224.pdf",
-          "secondary": ""
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IFSM-24-BOTANY-PAPER-II-021224.pdf"
         },
         "image": {
           "primary": "",
@@ -532,13 +509,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b19",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m5",
+      "id": "book_1743490595999_246",
+      "title": "Chemical Engineering Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -552,13 +529,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b20",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m5",
+      "id": "book_1743490620383_433",
+      "title": "Chemical Engineering Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -572,13 +549,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b21",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m6",
+      "id": "book_1743490782663_558",
+      "title": "Chemistry Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -592,13 +569,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b22",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m6",
+      "id": "book_1743490805288_189",
+      "title": "Chemistry Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -612,13 +589,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b23",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m7",
+      "id": "book_1743490834294_287",
+      "title": "Civil Engineering Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -632,13 +609,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b24",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m7",
+      "id": "book_1743490856816_988",
+      "title": "Civil Engineering Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -652,13 +629,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b25",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m8",
+      "id": "book_1743490882661_809",
+      "title": "Forestry Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -672,13 +649,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b26",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m8",
+      "id": "book_1743490905202_472",
+      "title": "Forestry Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -692,13 +669,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b27",
-      "title": "General English 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m9",
+      "id": "book_1743490928056_349",
+      "title": "General English",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -712,13 +689,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b28",
-      "title": "General Knowledge 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m10",
+      "id": "book_1743490953154_385",
+      "title": "General Knowledge",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -732,13 +709,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b29",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m11",
+      "id": "book_1743490982078_14",
+      "title": "Geology Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -752,13 +729,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b30",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m11",
+      "id": "book_1743490998434_106",
+      "title": "Geology Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -772,13 +749,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b31",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m12",
+      "id": "book_1743491021202_0",
+      "title": "Mathematics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -792,13 +769,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b32",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m12",
+      "id": "book_1743491043562_34",
+      "title": "Mathematics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -812,13 +789,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b33",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m13",
+      "id": "book_1743491064364_568",
+      "title": "Mechanical Engineering Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -832,13 +809,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b34",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m13",
+      "id": "book_1743491088070_342",
+      "title": "Mechanical Engineering Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -852,13 +829,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b35",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m14",
+      "id": "book_1743491112145_445",
+      "title": "Physics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -872,13 +849,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b36",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m14",
+      "id": "book_1743491133663_123",
+      "title": "Physics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -892,13 +869,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b37",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m15",
+      "id": "book_1743491154760_2",
+      "title": "Statistics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -912,13 +889,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b38",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m15",
+      "id": "book_1743491174995_216",
+      "title": "Statistics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -932,13 +909,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b39",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m16",
+      "id": "book_1743491210151_950",
+      "title": "Zoology Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -952,13 +929,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b40",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "indian_forest_service_m16",
+      "id": "book_1743491241151_478",
+      "title": "Zoology Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743490298606_681",
       "description": "",
       "download": {
         "pdf": {
@@ -972,13 +949,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b41",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_1",
+      "id": "book_1743491720214_38",
+      "title": "Agriculture Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -992,13 +969,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b42",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_1",
+      "id": "book_1743491734892_384",
+      "title": "Agriculture Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1012,13 +989,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b43",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_2",
+      "id": "book_1743491762090_984",
+      "title": "Animal Husb. and Vet. Science Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1032,13 +1009,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b44",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_2",
+      "id": "book_1743491787176_961",
+      "title": "Animal Husb. and Vet. Science Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1052,13 +1029,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b45",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_3",
+      "id": "book_1743491824480_18",
+      "title": "Anthropology Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1072,13 +1049,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b46",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_3",
+      "id": "book_1743491849214_95",
+      "title": "Anthropology Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1092,13 +1069,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b47",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_4",
+      "id": "book_1743491871698_985",
+      "title": "Botany Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1112,13 +1089,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b48",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_4",
+      "id": "book_1743491891942_117",
+      "title": "Botany Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1132,13 +1109,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b49",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_5",
+      "id": "book_1743491914759_101",
+      "title": "Chemistry Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1152,13 +1129,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b50",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_5",
+      "id": "book_1743491941465_956",
+      "title": "Chemistry Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1172,13 +1149,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b51",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_6",
+      "id": "book_1743491968251_464",
+      "title": "Civil Engineering Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1192,13 +1169,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b52",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_6",
+      "id": "book_1743491991813_487",
+      "title": "Civil Engineering Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1212,13 +1189,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b53",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_7",
+      "id": "book_1743492015073_665",
+      "title": "Commerce and Accountancy Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1232,13 +1209,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b54",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_7",
+      "id": "book_1743492036515_403",
+      "title": "Commerce and Accountancy Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1252,13 +1229,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b55",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_8",
+      "id": "book_1743492063819_521",
+      "title": "Economics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1272,13 +1249,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b56",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_8",
+      "id": "book_1743492085797_390",
+      "title": "Economics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1292,13 +1269,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b57",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_9",
+      "id": "book_1743492106183_258",
+      "title": "Electrical Engineering Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1312,13 +1289,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b58",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_9",
+      "id": "book_1743492135423_921",
+      "title": "Electrical Engineering Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1332,13 +1309,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b59",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_10",
+      "id": "book_1743492649628_178",
+      "title": "Geography Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1352,13 +1329,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b60",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_10",
+      "id": "book_1743492679691_90",
+      "title": "Geography Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1372,13 +1349,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b61",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_11",
+      "id": "book_1743492702700_400",
+      "title": "Geology Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1392,13 +1369,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b62",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_11",
+      "id": "book_1743492726282_560",
+      "title": "Geology Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1412,13 +1389,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b63",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_12",
+      "id": "book_1743492754950_217",
+      "title": "History Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1432,13 +1409,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b64",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_12",
+      "id": "book_1743492780426_987",
+      "title": "History Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1452,13 +1429,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b65",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_13",
+      "id": "book_1743492800126_823",
+      "title": "Law Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1472,13 +1449,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b66",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_13",
+      "id": "book_1743492821580_778",
+      "title": "Law Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1492,13 +1469,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b67",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_14",
+      "id": "book_1743492843026_266",
+      "title": "Management Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1512,13 +1489,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b68",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_14",
+      "id": "book_1743492868586_896",
+      "title": "Management Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1532,13 +1509,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b69",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_15",
+      "id": "book_1743492896634_888",
+      "title": "Mathematics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1552,13 +1529,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b70",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_15",
+      "id": "book_1743492947557_27",
+      "title": "Mathematics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1572,13 +1549,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b71",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_16",
+      "id": "book_1743492973590_122",
+      "title": "Mechanical Engineering Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1592,13 +1569,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b72",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_16",
+      "id": "book_1743492996657_232",
+      "title": "Mechanical Engineering Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1612,13 +1589,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b73",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_17",
+      "id": "book_1743493020416_679",
+      "title": "Medical Science Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1632,13 +1609,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b74",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_17",
+      "id": "book_1743493042806_16",
+      "title": "Medical Science Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1652,13 +1629,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b75",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_18",
+      "id": "book_1743493068716_351",
+      "title": "Philosophy Paper -I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1672,13 +1649,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b76",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_18",
+      "id": "book_1743493091371_200",
+      "title": "Philosophy Paper -II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1692,13 +1669,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b77",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_19",
+      "id": "book_1743493114885_606",
+      "title": "Physics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1712,13 +1689,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b78",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_19",
+      "id": "book_1743493140141_347",
+      "title": "Physics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1732,13 +1709,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b79",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_20",
+      "id": "book_1743493166347_602",
+      "title": "Political Science and International Relations Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1752,13 +1729,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b80",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_20",
+      "id": "book_1743493190917_704",
+      "title": "Political Science and International Relations Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1772,13 +1749,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b81",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_21",
+      "id": "book_1743493214461_880",
+      "title": "Psychology Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1792,13 +1769,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b82",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_21",
+      "id": "book_1743493238438_719",
+      "title": "Psychology Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1812,13 +1789,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b83",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_22",
+      "id": "book_1743493272116_276",
+      "title": "Public Administration Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1832,13 +1809,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b84",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_22",
+      "id": "book_1743493344227_843",
+      "title": "Public Administration Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1852,13 +1829,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b85",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_23",
+      "id": "book_1743493365006_779",
+      "title": "Sociology Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1872,13 +1849,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b86",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_23",
+      "id": "book_1743493392900_400",
+      "title": "Sociology Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1892,13 +1869,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b87",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_24",
+      "id": "book_1743493426221_402",
+      "title": "Statistics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1912,13 +1889,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b88",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_24",
+      "id": "book_1743493458554_907",
+      "title": "Statistics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1932,13 +1909,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b89",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_25",
+      "id": "book_1743493475412_640",
+      "title": "Zoology Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1952,13 +1929,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b90",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m3_optional_25",
+      "id": "book_1743493495682_822",
+      "title": "Zoology Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743491676650_277",
       "description": "",
       "download": {
         "pdf": {
@@ -1972,15 +1949,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-
-
     {
-      "id": "b91",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_1",
+      "id": "book_1743499013608_695",
+      "title": "Assamese Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -1994,13 +1969,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b92",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_1",
+    {
+      "id": "book_1743499036300_222",
+      "title": "Assamese Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2014,13 +1989,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b93",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_2",
+    {
+      "id": "book_1743499064478_678",
+      "title": "Bengali Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2034,13 +2009,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b94",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_2",
+    {
+      "id": "book_1743499089408_93",
+      "title": "Bengali Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2054,13 +2029,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b95",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_3",
+    {
+      "id": "book_1743499113492_97",
+      "title": "English Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2074,13 +2049,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b96",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_3",
+    {
+      "id": "book_1743499132450_52",
+      "title": "English Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2094,13 +2069,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b97",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_4",
+    {
+      "id": "book_1743499155479_857",
+      "title": "Gujarati Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2114,13 +2089,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b98",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_4",
+    {
+      "id": "book_1743499176774_388",
+      "title": "Gujarati Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2134,13 +2109,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b99",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_5",
+    {
+      "id": "book_1743499205541_320",
+      "title": "Hindi Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2154,13 +2129,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b100",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_5",
+    {
+      "id": "book_1743499224934_271",
+      "title": "Hindi Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2174,13 +2149,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b101",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_6",
+    {
+      "id": "book_1743499245321_99",
+      "title": "Kannada Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2194,13 +2169,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b102",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_6",
+    {
+      "id": "book_1743499265523_768",
+      "title": "Kannada Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2214,13 +2189,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b103",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_7",
+    {
+      "id": "book_1743499293485_914",
+      "title": "Maithili Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2234,13 +2209,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b104",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_7",
+    {
+      "id": "book_1743499309411_920",
+      "title": "Maithili Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2254,13 +2229,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b105",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_8",
+    {
+      "id": "book_1743499333031_524",
+      "title": "Malayalam Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2274,13 +2249,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b106",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_8",
+    {
+      "id": "book_1743499356876_631",
+      "title": "Malayalam Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2294,13 +2269,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b107",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_9",
+    {
+      "id": "book_1743499377939_55",
+      "title": "Manipuri Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2314,13 +2289,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b108",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_9",
+    {
+      "id": "book_1743499399595_472",
+      "title": "Manipuri Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2334,13 +2309,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b109",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_10",
+    {
+      "id": "book_1743499420517_500",
+      "title": "Marathi Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2354,13 +2329,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b110",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_10",
+    {
+      "id": "book_1743499443294_293",
+      "title": "Marathi Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2374,13 +2349,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b111",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_11",
+    {
+      "id": "book_1743499465839_849",
+      "title": "Odia Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2394,13 +2369,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b112",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_11",
+    {
+      "id": "book_1743499492000_222",
+      "title": "Odia Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2414,13 +2389,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b113",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_12",
+    {
+      "id": "book_1743499513424_291",
+      "title": "Punjabi Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2434,13 +2409,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b114",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_12",
+    {
+      "id": "book_1743499533680_776",
+      "title": "Punjabi Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2454,13 +2429,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b115",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_13",
+    {
+      "id": "book_1743499555002_807",
+      "title": "Sindhi Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2474,13 +2449,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b116",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_13",
+    {
+      "id": "book_1743499577766_858",
+      "title": "Sindhi Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2494,13 +2469,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b117",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_14",
+    {
+      "id": "book_1743499601618_317",
+      "title": "Sanskrit Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2514,13 +2489,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b118",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_14",
+    {
+      "id": "book_1743499622456_794",
+      "title": "Sanskrit Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2534,13 +2509,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b119",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_15",
+    {
+      "id": "book_1743499645596_923",
+      "title": "Tamil Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2554,13 +2529,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b120",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_15",
+    {
+      "id": "book_1743499671136_145",
+      "title": "Tamil Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2574,13 +2549,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b121",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_16",
+    {
+      "id": "book_1743499695550_507",
+      "title": "Telugu Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2594,13 +2569,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b122",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_16",
+    {
+      "id": "book_1743499717092_62",
+      "title": "Telugu Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2614,13 +2589,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b123",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_17",
+    {
+      "id": "book_1743499744124_178",
+      "title": "Urdu Literature Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2634,13 +2609,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b124",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m5_literature_17",
+    {
+      "id": "book_1743499757826_940",
+      "title": "Urdu Literature Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743498973162_221",
       "description": "",
       "download": {
         "pdf": {
@@ -2654,14 +2629,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-
     {
-      "id": "b125",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_1",
+      "id": "book_1743499830497_424",
+      "title": "Assamese Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2675,13 +2649,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b126",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_2",
+    {
+      "id": "book_1743499853333_996",
+      "title": "Bengali Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2693,16 +2667,15 @@
           "secondary": ""
         }
       },
-	
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b127",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_3",
+    {
+      "id": "book_1743499875085_380",
+      "title": "Bodo Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2716,13 +2689,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b128",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_4",
+    {
+      "id": "book_1743499898144_336",
+      "title": "English Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2736,13 +2709,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b129",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_5",
+    {
+      "id": "book_1743499979597_332",
+      "title": "Gujarati Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2756,13 +2729,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b130",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_6",
+    {
+      "id": "book_1743500005725_142",
+      "title": "Hindi Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2776,13 +2749,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b131",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_7",
+    {
+      "id": "book_1743500028045_979",
+      "title": "Kannada Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2796,13 +2769,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b132",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_8",
+    {
+      "id": "book_1743500058738_946",
+      "title": "Maithili Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2816,13 +2789,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b133",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_9",
+    {
+      "id": "book_1743500089913_322",
+      "title": "Malayalam Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2836,13 +2809,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b134",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_10",
+    {
+      "id": "book_1743500155573_664",
+      "title": "Marathi Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2856,13 +2829,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b135",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_11",
+    {
+      "id": "book_1743500175371_855",
+      "title": "Nepali Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2876,13 +2849,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b136",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_12",
+    {
+      "id": "book_1743500197734_678",
+      "title": "Odia Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2896,13 +2869,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b137",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_13",
+    {
+      "id": "book_1743500223974_108",
+      "title": "Punjabi Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2916,13 +2889,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b138",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_14",
+    {
+      "id": "book_1743500254455_579",
+      "title": "Sanskrit Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2936,13 +2909,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b139",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_15",
+    {
+      "id": "book_1743500275190_763",
+      "title": "Sindhi Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2956,13 +2929,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b140",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_16",
+    {
+      "id": "book_1743500295925_984",
+      "title": "Tamil Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2976,13 +2949,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b141",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_17",
+    {
+      "id": "book_1743500317517_424",
+      "title": "Telugu Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -2996,13 +2969,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-{
-      "id": "b142",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m4_compulsory_18",
+    {
+      "id": "book_1743500337878_758",
+      "title": "Urdu Compulsory",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743499790598_203",
       "description": "",
       "download": {
         "pdf": {
@@ -3016,99 +2989,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-
-
-
     {
-      "id": "b143",
-      "title": "Paper - I 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m2",
-      "description": "",
-      "download": {
-        "pdf": {
-          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf",
-          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf"
-        },
-        "image": {
-          "primary": "",
-          "secondary": ""
-        }
-      },
-      "passwordProtected": false,
-      "pdfPassword": "",
-      "toc": [ ]
-    },
-{
-      "id": "b144",
-      "title": "Paper - II 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m2",
-      "description": "",
-      "download": {
-        "pdf": {
-          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_II_03102024.pdf",
-          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_II_03102024.pdf"
-        },
-        "image": {
-          "primary": "",
-          "secondary": ""
-        }
-      },
-	
-	  "passwordProtected": false,
-      "pdfPassword": "",
-      "toc": [ ]
-    },
-
-	{
-      "id": "b145",
-      "title": "Paper - III 2024",
-      "category": "mytry",
-	  "subCategory": "",
-      "description": "",
-      "download": {
-        "pdf": {
-          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_III_03102024.pdf",
-          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_III_03102024.pdf"
-        },
-        "image": {
-          "primary": "",
-          "secondary": ""
-        }
-      },
-      "passwordProtected": false,
-      "pdfPassword": "",
-      "toc": [ ]
-    },
-{
-      "id": "b146",
-      "title": "Paper - IV 2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m2",
-      "description": "",
-      "download": {
-        "pdf": {
-          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_IV_03102024.pdf",
-          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_IV_03102024.pdf"
-        },
-        "image": {
-          "primary": "",
-          "secondary": ""
-        }
-      },
-	  "passwordProtected": false,
-      "pdfPassword": "",
-      "toc": [ ]
-    },
-
-    {
-      "id": "b147",
-      "title": "2024",
-      "category": "upsc",
-	  "subCategory": "civil_services_m1",
+      "id": "book_1743500406535_9",
+      "title": "Essay",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500364249_752",
       "description": "",
       "download": {
         "pdf": {
@@ -3122,14 +3009,93 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-
     {
-      "id": "b148",
-      "title": "English 2024",
-      "category": "upsc",
-	  "subCategory": "section_Officer_examination-2",
+      "id": "book_1743500430268_547",
+      "title": "General Studies Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500364249_752",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_I_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743500452298_133",
+      "title": "General Studies Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500364249_752",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_II_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_II_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743500474266_437",
+      "title": "General Studies Paper - III",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500364249_752",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_III_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_III_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743500494788_121",
+      "title": "General Studies Paper - IV",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500364249_752",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_IV_03102024.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP_CSM_2024_GenStud_IV_03102024.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743500682190_970",
+      "title": "English",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500650120_376",
       "description": "",
       "download": {
         "pdf": {
@@ -3143,13 +3109,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-  {
-      "id": "b149",
-      "title": "General Knowledge 2024",
-      "category": "upsc",
-	  "subCategory": "section_Officer_examination-2",
+    {
+      "id": "book_1743500704813_91",
+      "title": "General Knowledge",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500650120_376",
       "description": "",
       "download": {
         "pdf": {
@@ -3163,13 +3129,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-  {
-      "id": "b150",
-      "title": "Elementary Mathematics 2024",
-      "category": "nonfiction",
-	  "subCategory": "",
+    {
+      "id": "book_1743500724427_689",
+      "title": "Elementary Mathematics",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500650120_376",
       "description": "",
       "download": {
         "pdf": {
@@ -3183,14 +3149,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-
     {
-      "id": "b151",
-      "title": "General Ability Test 2024",
-      "category": "upsc",
-	  "subCategory": "defence_naval_examination-2",
+      "id": "book_1743500912349_622",
+      "title": "General Ability Test",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500818105_442",
       "description": "",
       "download": {
         "pdf": {
@@ -3204,13 +3169,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-  {
-      "id": "b152",
-      "title": "Mathematics 2024",
-      "category": "upsc",
-	  "subCategory": "defence_naval_examination-2",
+    {
+      "id": "book_1743500935093_490",
+      "title": "Mathematics",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743500818105_442",
       "description": "",
       "download": {
         "pdf": {
@@ -3224,14 +3189,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
-
-
     {
-      "id": "b160",
-      "title": "General Ability And Intelligence 2024",
-      "category": "mytry",
+      "id": "book_1743501076228_781",
+      "title": "General Ability & Intelligence",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501014621_762",
       "description": "",
       "download": {
         "pdf": {
@@ -3245,13 +3209,13 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
     },
     {
-      "id": "b160",
-      "title": "General Studies, Essay And Comprehension 2024",
-      "category": "nonfiction",
-	  "subCategory": "",
+      "id": "book_1743501124639_852",
+      "title": "General Studies, Essay & Comprehension",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501014621_762",
       "description": "",
       "download": {
         "pdf": {
@@ -3265,13 +3229,247 @@
       },
       "passwordProtected": false,
       "pdfPassword": "",
-      "toc": [ ]
+      "toc": []
+    },
+    {
+      "id": "book_1743501189130_243",
+      "title": "General Medicine and Pediatrics",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501161304_39",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CMSE-24-PAPER-I-GENERAL-MEDICINE-AND-PEDIATRICS-150724.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CMSE-24-PAPER-I-GENERAL-MEDICINE-AND-PEDIATRICS-150724.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501217896_894",
+      "title": "Surgery, Gynaecology & Obstetrics, Preventive & Social Medicine",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501161304_39",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-CMSE-24-PAPER-II-SURGERY-GYAE-OBST-PREVENT-SOCIAL-MEDCN-150724.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-CMSE-24-PAPER-II-SURGERY-GYAE-OBST-PREVENT-SOCIAL-MEDCN-150724.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501341404_125",
+      "title": "General Studies",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-STUDIES-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-STUDIES-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501386177_527",
+      "title": "General English",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-ENGLISH-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-ENGLISH-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501410300_732",
+      "title": "Indian Economics",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-INDIAN-ECONOMICS-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-INDIAN-ECONOMICS-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501431781_287",
+      "title": "General Economics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-ECONOMICS-%20PAPER-I-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-ECONOMICS-%20PAPER-I-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501457522_112",
+      "title": "General Economics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-ECONOMICS-PAPER-II-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-ECONOMICS-PAPER-II-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501477428_751",
+      "title": "General Economics Paper - III",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-ECONOMICS-PAPER-III-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-GENERAL-ECONOMICS-PAPER-III-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501498493_800",
+      "title": "Statistics Paper - I",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-STATISTICS-PAPER-I-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-STATISTICS-PAPER-I-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501518313_992",
+      "title": "Statistics Paper - II",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-STATISTICS-PAPER-II-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-STATISTICS-PAPER-II-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501544517_208",
+      "title": "Statistics Paper - III",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-STATISTICS-PAPER-III-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-STATISTICS-PAPER-III-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
+    },
+    {
+      "id": "book_1743501566599_820",
+      "title": "Statistics Paper - IV",
+      "category": "cat_1743489671800_448",
+      "subCategory": "cat_1743501311328_306",
+      "description": "",
+      "download": {
+        "pdf": {
+          "primary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-STATISTICS-PAPER-IV-240624.pdf",
+          "secondary": "https://upsc.gov.in/sites/default/files/QP-IES-ISS-24-STATISTICS-PAPER-IV-240624.pdf"
+        },
+        "image": {
+          "primary": "",
+          "secondary": ""
+        }
+      },
+      "passwordProtected": false,
+      "pdfPassword": "",
+      "toc": []
     }
-
-
-
-
-
-
   ]
 }
